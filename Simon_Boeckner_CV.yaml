@@ -2,13 +2,13 @@
 cv:
   name: Simon Boeckner
   headline: Chemical Engineering Student
-  location: Lively, ON
+  location: Toronto, ON
   email: simonboeckner@gmail.com
   photo:
   phone: 
   social_networks:
     - network: LinkedIn
-      username: linkedin.com/in/simon-boeckner-8b233a272/
+      username: simon-boeckner-8b233a272/
   custom_connections:
   sections:
     education:
@@ -18,7 +18,7 @@ cv:
         date:
         start_date: 2024-09
         end_date: 2029-04
-        location: Toronto, ON
+        location: Ontario, Canada
         summary:
         highlights:
           - Robotics for Space Exploration (RSX) programming sub team member
@@ -231,7 +231,7 @@ locale:
   #   - November
   #   - December
 settings:
-  current_date: '2026-02-07'
+  current_date: '2026-04-09'
   render_command:
     design:
     locale:

@@ -1,12 +1,12 @@
 # Simon Boeckner's CV
 
 - Email: [simonboeckner@gmail.com](mailto:simonboeckner@gmail.com)
-- Location: Lively, ON
-- LinkedIn: [linkedin.com/in/simon-boeckner-8b233a272/](https://linkedin.com/in/linkedin.com/in/simon-boeckner-8b233a272/)
+- Location: Toronto, ON
+- LinkedIn: [simon-boeckner-8b233a272/](https://linkedin.com/in/simon-boeckner-8b233a272/)
 
 
 # Education
-## **University of Toronto**, BASc in Chemical Engineering -- Toronto, ONSept 2024 – Apr 2029
+## **University of Toronto**, BASc in Chemical Engineering -- Ontario, CanadaSept 2024 – Apr 2029
 
 - Robotics for Space Exploration (RSX) programming sub team member
 

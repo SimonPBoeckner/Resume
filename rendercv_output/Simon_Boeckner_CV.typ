@@ -5,7 +5,7 @@
 #show: rendercv.with(
   name: "Simon Boeckner",
   footer: context { [#emph[Simon Boeckner -- #str(here().page())\/#str(counter(page).final().first())]] },
-  top-note: [ #emph[Last updated in Feb 2026] ],
+  top-note: [ #emph[Last updated in Apr 2026] ],
   locale-catalog-language: "en",
   page-size: "us-letter",
   page-top-margin: 0.7in,
@@ -77,8 +77,8 @@
   entries-highlights-space-between-bullet-and-text: 0.3em,
   date: datetime(
     year: 2026,
-    month: 2,
-    day: 7,
+    month: 4,
+    day: 9,
   ),
 )
 
@@ -88,9 +88,9 @@
   #headline([Chemical Engineering Student])
 
 #connections(
-  [Lively, ON],
+  [Toronto, ON],
   [#link("mailto:simonboeckner@gmail.com", icon: false, if-underline: false, if-color: false)[simonboeckner\@gmail.com]],
-  [#link("https://linkedin.com/in/linkedin.com/in/simon-boeckner-8b233a272/", icon: false, if-underline: false, if-color: false)[linkedin.com\/in\/linkedin.com\/in\/simon-boeckner-8b233a272]],
+  [#link("https://linkedin.com/in/simon-boeckner-8b233a272/", icon: false, if-underline: false, if-color: false)[linkedin.com\/in\/simon-boeckner-8b233a272]],
 )
 
 
@@ -98,7 +98,7 @@
 
 #education-entry(
   [
-    #strong[University of Toronto], BASc in Chemical Engineering -- Toronto, ON
+    #strong[University of Toronto], BASc in Chemical Engineering -- Ontario, Canada
 
   ],
   [
